@@ -2,7 +2,7 @@
 	"name": "markdown-ranking-table",
 	"displayName": "Markdown Ranking Table",
 	"description": "Edit and reorder rankings in Markdown tables",
-	"version": "0.0.0",
+	"version": "0.1.0",
 	"author": {
 		"name": "Baptiste Augrain",
 		"email": "daiyam@zokugun.org"
