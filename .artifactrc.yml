@@ -7,8 +7,11 @@ artifacts:
   "@daiyam/artifact-lang-ts":
     version: 0.10.5
   "@daiyam/artifact-vsx-ts":
-    version: 0.11.13
+    version: 0.11.14
+    update:
+      src/**:
+        if_missing: skip
   "@daiyam/artifact-vsx-zokugun":
     version: 0.4.2
   "@daiyam/artifact-vsx-bundle-ncc":
-    version: 0.4.1
+    version: 0.4.2
